@@ -25,7 +25,7 @@
 2015-12-07 12:04:53 ERROR  : Error connecting to the server: fe_sendauth: no password supplied
 
 2015-12-07 16:00:49 ERROR  : Error connecting to the server: fe_sendauth: no password supplied
-
+  
 2015-12-07 16:01:00 ERROR  : Error connecting to the server: fe_sendauth: no password supplied
 
 2015-12-08 11:42:34 ERROR  : server closed the connection unexpectedly
